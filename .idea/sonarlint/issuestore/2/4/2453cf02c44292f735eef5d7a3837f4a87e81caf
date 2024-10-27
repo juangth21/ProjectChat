@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ú»¾
+O
+java:S1854"9Remove this useless assignment to local variable "user2".(ðÇ¥›
+T
+java:S1854"9Remove this useless assignment to local variable "user1".(åñèòÿÿÿÿÿ
+E
+java:S2440"*Remove this instantiation of "XMLMessage".(í‚Ðºÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "user1" local variable.(åñèòÿÿÿÿÿ
+@
+java:S1481"*Remove this unused "user2" local variable.(ðÇ¥›
+P
+java:S2209"5Change this instance-reference to a static reference.(…æã¢ùÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(£åðÎ
+E	java:S106"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ

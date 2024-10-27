@@ -1,0 +1,12 @@
+
+	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øî²ıJ$bb8f0102-f6a4-4545-9a24-6e781f09b402
+	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(«†šáJ$9d000584-4e68-4ad7-b0ba-3fac98fb41b8
+½
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Ê—J$82a8ce65-627b-4444-916d-a2ed84532889
+š
+java:S1450"_Remove the "centerController" field and declare it as a local variable in the relevant methods.(™•À%J$f4bfe640-d526-4a3d-9b4d-bcae4dc0833e
+n
+java:S6126U"2Replace this String concatenation with Text block.(Ù›ŠÍJ$bb37df76-d85c-49ee-a1ff-ce093da93288
+k	java:S106g"+Replace this use of System.out by a logger.(ŞÆ­ÛşÿÿÿÿJ$dd09e4e9-608a-4906-9755-d683665ffa1b
+g
+java:S1172z"+Remove this unused method parameter "data".(©Œ™ÓJ$0e205231-542b-40cc-b2b0-e0dc72129425

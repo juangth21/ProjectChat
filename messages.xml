@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <fecha>2024-10-27T11:13:34.8466994</fecha>
+        <text>hola</text>
+        <contactEmisor>
+            <email>alfonso@gmail.com</email>
+            <name>alfonso</name>
+            <nickname>alfonso</nickname>
+        </contactEmisor>
+        <contactReceptor>
+            <email>juan@gmail.com</email>
+            <name>juan</name>
+            <nickname>juan</nickname>
+        </contactReceptor>
+    </message>
+    <message>
+        <fecha>2024-10-27T11:14:01.3287144</fecha>
+        <text>buenas</text>
+        <contactEmisor>
+            <email>juan@gmail.com</email>
+            <name>juan</name>
+            <nickname>juan</nickname>
+        </contactEmisor>
+        <contactReceptor>
+            <email>alfonso@gmail.com</email>
+            <name>alfonso</name>
+            <nickname>alfonso</nickname>
+        </contactReceptor>
+    </message>
+</messages>

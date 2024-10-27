@@ -1,0 +1,8 @@
+
+–	java:S116"VRename this field "contraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸúìÒøÿÿÿÿJ$df9d814d-b54c-4fb9-9070-e5a60bb8c00d
+½
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎóÔˆJ$99d2bbaf-f8f4-4491-87bb-7d3e83bece7d
+Â
+java:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•‘ÝŸüÿÿÿÿJ$9e800ed1-8d67-417c-a94b-9e188712d862
+k	java:S106("+Replace this use of System.out by a logger.(¶Ú­ËÿÿÿÿÿJ$c4abb5a1-0f33-4ee8-b4d0-dd389c995099
+k	java:S1065"+Replace this use of System.out by a logger.(úÎ¡ÙûÿÿÿÿJ$84ae4069-8fab-475f-b3ab-de4997e1f4c7
