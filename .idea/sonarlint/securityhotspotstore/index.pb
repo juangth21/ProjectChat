@@ -43,3 +43,7 @@ m
 =src/main/java/com/github/example/view/RegisterController.java,d\7\d7486f9fbe1076495f2b0c4888739afc8ef63b91
 a
 1src/main/java/com/github/example/view/Scenes.java,7\3\73ea4078b6af6794da6f87b81f105f6e580112b1
+;
+resumen.txt,3\0\30ae5fb2b7cc7e759021790bf04802f908f8de6b
+i
+9src/main/java/com/github/example/view/MainController.java,d\9\d95f43e3a89c0585282f1d7799d0671706dd8d4d

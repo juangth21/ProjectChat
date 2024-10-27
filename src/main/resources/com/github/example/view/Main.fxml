@@ -21,7 +21,7 @@
                 <!-- Messages Panel -->
                 <VBox prefHeight="279.0" prefWidth="500.0" style="-fx-background-color: lightgrey;">
                     <children>
-                        <ScrollPane fx:id="scrollPaneMensajes" fitToHeight="true" fitToWidth="true">
+                        <ScrollPane fx:id="scrollPaneMensajes" fitToHeight="true" fitToWidth="true" prefHeight="441.0" prefWidth="566.0">
                             <content>
                                 <VBox fx:id="vBoxMensajes" prefHeight="454.0" prefWidth="559.0" VBox.vgrow="ALWAYS">
                                     <children>
@@ -36,7 +36,7 @@
                         </ScrollPane>
                         <HBox>
                             <children>
-                                <Button fx:id="buttonAnadirMensaje" onAction="#guardarMensaje" prefHeight="55.0" prefWidth="114.0" style="-fx-background-color: darkgrey;" text="Send" textFill="WHITE">
+                                <Button fx:id="buttonAnadirMensaje" onAction="#guardarMensaje" prefHeight="55.0" prefWidth="114.0" style="-fx-background-color: black;" text="Send" textFill="WHITE">
                                     <cursor><Cursor fx:constant="HAND" /></cursor>
                                     <font><Font name="Consolas" size="12.0" /></font>
                                 </Button>
@@ -53,21 +53,15 @@
                 <VBox fx:id="contacts" prefWidth="150.0" style="-fx-background-color: grey;">
                     <children>
                         <ListView fx:id="contactListView" prefHeight="394.0" prefWidth="147.0" style="-fx-background-color: grey;" />
-                        <TextField fx:id="textField" prefHeight="0.0" prefWidth="147.0" promptText="username" />
-                        <Button fx:id="buttonAnadirContacto" onAction="#añadirContactos" prefHeight="50.0" prefWidth="157.0" style="-fx-background-color: lightgrey;" text="+ Contact">
+                        <TextField fx:id="textField" prefHeight="48.0" prefWidth="171.0" promptText="username" />
+                        <Button fx:id="buttonAnadirContacto" onAction="#añadirContactos" prefHeight="79.0" prefWidth="171.0" style="-fx-background-color: lightgrey;" text=" + ">
                             <cursor><Cursor fx:constant="HAND" /></cursor>
-                            <font><Font name="Consolas" size="12.0" /></font>
+                            <font><Font name="Consolas" size="57.0" /></font>
                         </Button>
                     </children>
                 </VBox>
             </items>
         </SplitPane>
-
-        <!-- Top Panel Icons and Labels -->
-        <ImageView fx:id="imagen" fitHeight="46.0" fitWidth="76.0" layoutX="14.0" layoutY="14.0" onMouseClicked="#changeSceneToInicioSesion" pickOnBounds="true" preserveRatio="true">
-            <image><Image url="@back.png" /></image>
-            <cursor><Cursor fx:constant="HAND" /></cursor>
-        </ImageView>
         <ImageView fx:id="buttonResumen" fitHeight="46.0" fitWidth="52.0" layoutX="840.0" layoutY="14.0" onMouseClicked="#txtMensajes" pickOnBounds="true" preserveRatio="true">
             <image><Image url="@back.png" /></image>
             <cursor><Cursor fx:constant="HAND" /></cursor>
