@@ -1,17 +1,17 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û¯ÏæıÿÿÿÿJ$746a98cd-22d2-43fc-b102-efe64f20146c
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û¯ÏæıÿÿÿÿJ$2dd369e5-e814-4124-8838-5c3538aa4961
 –
-java:S1104"[Make archivoMessages a static final constant or non-public and provide accessors if needed.(Â¼úJ$22c797b5-9717-4dde-a938-a17ae8d41942
+java:S1104"[Make archivoMessages a static final constant or non-public and provide accessors if needed.(Â¼úJ$dd77cb42-e863-4999-896e-26d6dae46806
 ’
-java:S1104"VMake archivoTxt a static final constant or non-public and provide accessors if needed.(„ô‘ôJ$364575c6-3529-473e-bfe7-80f6125adca2
+java:S1104"VMake archivoTxt a static final constant or non-public and provide accessors if needed.(„ô‘ôJ$68d100d2-ed02-43c4-9c41-e83507c81842
 p
-java:S1444"5Make this "public static archivoMessages" field final(Â¼úJ$937c32fa-8f56-4263-b278-dfdaef816cd0
+java:S1444"5Make this "public static archivoMessages" field final(Â¼úJ$26ec981f-b5db-471a-8bc1-4f4bdad68ef1
 l
-java:S1444"0Make this "public static archivoTxt" field final(„ô‘ôJ$26358e89-1684-4735-b174-78c12c61e746
-	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(ÚƒÄ…ùÿÿÿÿ8†¼ì¬2J$430e5eb3-a192-443e-94ae-fa4b905b9e97
+java:S1444"0Make this "public static archivoTxt" field final(„ô‘ôJ$008e75c1-90e5-48ff-8a3b-8527493b31a7
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(ÚƒÄ…ùÿÿÿÿ8†¼ì¬2J$2457b877-36e2-4ddf-bfea-f55ee16982cb
 {
-java:S1118":Add a private constructor to hide the implicit public one.(¾œ½òıÿÿÿÿJ$c94935d9-a0e5-45e6-8b81-b1c8f99d7d81
+java:S1118":Add a private constructor to hide the implicit public one.(¾œ½òıÿÿÿÿJ$5b157442-f920-4f98-ac9a-fe61c15f7f84
 
-java:S37760"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÙÖ´©J$ae69f59b-346e-4a05-8a33-11889e788522
-k	java:S106m"+Replace this use of System.out by a logger.(ÆĞŒÚüÿÿÿÿJ$6a6d9fcb-1899-4628-ac11-51d974ecce28
-l	java:S106›"+Replace this use of System.out by a logger.(ÓïãêøÿÿÿÿJ$641d4eeb-48f2-4dbe-b81f-aed4b75a95a9
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÙÖ´©J$ab5b6840-49ec-4645-96c2-403056c87c1e
+k	java:S106m"+Replace this use of System.out by a logger.(ÆĞŒÚüÿÿÿÿJ$70c4a280-135d-42d3-9668-11fa90bac337
+l	java:S106›"+Replace this use of System.out by a logger.(ÓïãêøÿÿÿÿJ$b09966be-95fd-4068-9f7f-e9372c61e6d5

@@ -18,7 +18,6 @@
     <children>
         <SplitPane fx:id="splitpane" dividerPositions="0.79" layoutX="60.0" layoutY="97.0" prefHeight="464.0" prefWidth="716.0">
             <items>
-                <!-- Messages Panel -->
                 <VBox prefHeight="279.0" prefWidth="500.0" style="-fx-background-color: lightgrey;">
                     <children>
                         <ScrollPane fx:id="scrollPaneMensajes" fitToHeight="true" fitToWidth="true" prefHeight="441.0" prefWidth="566.0">
@@ -49,7 +48,6 @@
                     </children>
                 </VBox>
 
-                <!-- Contacts Panel (Moved to the Right) -->
                 <VBox fx:id="contacts" prefWidth="150.0" style="-fx-background-color: grey;">
                     <children>
                         <ListView fx:id="contactListView" prefHeight="394.0" prefWidth="147.0" style="-fx-background-color: grey;" />
@@ -62,14 +60,11 @@
                 </VBox>
             </items>
         </SplitPane>
-        <ImageView fx:id="buttonResumen" fitHeight="46.0" fitWidth="52.0" layoutX="840.0" layoutY="14.0" onMouseClicked="#txtMensajes" pickOnBounds="true" preserveRatio="true">
+        <ImageView fx:id="buttonResumen" fitHeight="46.0" fitWidth="52.0" layoutX="21.0" layoutY="19.0" onMouseClicked="#txtMensajes" pickOnBounds="true" preserveRatio="true">
             <image><Image url="@back.png" /></image>
             <cursor><Cursor fx:constant="HAND" /></cursor>
         </ImageView>
         <Text fill="BLACK" layoutX="44.0" layoutY="47.0" text="Exit" textAlignment="CENTER" wrappingWidth="149">
-            <font><Font name="Consolas" size="20.0" /></font>
-        </Text>
-        <Text fill="BLACK" layoutX="634.0" layoutY="47.0" text="Export chat" textAlignment="CENTER" wrappingWidth="213">
             <font><Font name="Consolas" size="20.0" /></font>
         </Text>
 

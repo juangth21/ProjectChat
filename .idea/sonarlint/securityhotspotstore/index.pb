@@ -47,3 +47,13 @@ a
 resumen.txt,3\0\30ae5fb2b7cc7e759021790bf04802f908f8de6b
 i
 9src/main/java/com/github/example/view/MainController.java,d\9\d95f43e3a89c0585282f1d7799d0671706dd8d4d
+n
+>src/main/java/com/github/example/model/Utils/Serializator.java,a\8\a88b80de1fa1f308dac16a10a748a823d260ab7f
+l
+<src/main/java/com/github/example/model/Utils/XmlManager.java,0\0\003ba97959e12645e6adfa52234c1282fc43ffdb
+o
+?src/main/java/com/github/example/model/Singleton/LoginUser.java,8\0\802140514914634420046c8d706bc9d145fd11ef
+d
+4src/main/java/com/github/example/model/XML/Test.java,d\6\d6cdf51847bf7cc80bf5d956f61b892e4f409288
+_
+/src/main/java/com/github/example/Test/Test.java,5\7\570605a1778a86d5a7685e2b72dd2fa90708a737

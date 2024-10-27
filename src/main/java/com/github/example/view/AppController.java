@@ -25,60 +25,58 @@ public class AppController extends Controller implements Initializable {
 
     @FXML
     public static void showAlertForLogin() {
-        alertError.setTitle("❌ Error al registrarse ❌");
+        alertError.setTitle("Error");
         alertError.setHeaderText(null);
-        alertError.setContentText("La contraseña o el Email no coinciden, inténtelo de nuevo.");
+        alertError.setContentText("Inténtelo de nuevo.");
         alertError.showAndWait();
     }
 
     @FXML
     public static void showAlertForContactSelected() {
-        alertError.setTitle("❌ Error al seleccionar contacto ❌");
+        alertError.setTitle("Error");
         alertError.setHeaderText(null);
-        alertError.setContentText("No has seleccionado ningún contacto.");
+        alertError.setContentText("Contacto no seleccionado.");
         alertError.showAndWait();
     }
     @FXML
     public static void showAlertForPassword() {
-        alertError.setTitle("❌ Error en el campo contraseña ❌");
+        alertError.setTitle("Error");
         alertError.getDialogPane().setPrefWidth(700);
         alertError.getDialogPane().setPrefHeight(160);
         alertError.setHeaderText(null);
-        alertError.setContentText("- La contraseña debe contener al menos 8 caracteres y debe incluir al menos una letra mayúscula, \n " +
-                "una letra minúscula, un número y un carácter especial.");
+        alertError.setContentText("- La contraseña no cumple con los requisitos.");
         alertError.showAndWait();
     }
     @FXML
     public static void showAlertForEmail() {
-        alertError.setTitle("❌ Error en el email ❌");
+        alertError.setTitle("Error");
         alertError.getDialogPane().setPrefWidth(700);
         alertError.getDialogPane().setPrefHeight(160);
         alertError.setHeaderText(null);
-        alertError.setContentText("- El correo electrónico debe ser una dirección válida de Gmail, Outlook o Hotmail. \n" +
-                "- El correo introducido ya existe, por favor elija otro.");
+        alertError.setContentText("- El correo electrónico no cumple con los requisitos.");
         alertError.showAndWait();
     }
     @FXML
     public static void showAlertForAddContact() {
-        alertError.setTitle("❌ Error al añadir contacto ❌");
+        alertError.setTitle("Error");
         alertError.getDialogPane().setPrefWidth(700);
         alertError.getDialogPane().setPrefHeight(160);
         alertError.setHeaderText(null);
-        alertError.setContentText("- Ese contacto no existe en nuestra base de datos, por favor elija otro.");
+        alertError.setContentText("Contacto inexistente.");
         alertError.showAndWait();
     }
     @FXML
     public static void showAlertForContactRepetido() {
-        alertError.setTitle("❌ Error al añadir contacto ❌");
+        alertError.setTitle("Error");
         alertError.getDialogPane().setPrefWidth(700);
         alertError.getDialogPane().setPrefHeight(160);
         alertError.setHeaderText(null);
-        alertError.setContentText("- Ese contacto ya existe en tu lista.");
+        alertError.setContentText("Contacto existente.");
         alertError.showAndWait();
     }
     @FXML
     public static void showAlertForNickname() {
-        alertError.setTitle("❌ Error al registrarse ❌");
+        alertError.setTitle("Error");
         alertError.setHeaderText(null);
         alertError.getDialogPane().setPrefWidth(700);
         alertError.getDialogPane().setPrefHeight(160);
@@ -130,8 +128,6 @@ public class AppController extends Controller implements Initializable {
         view.controller.onOpen(parent);
         stage.showAndWait();
     }
-
-
 }
 
 

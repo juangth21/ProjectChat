@@ -10,23 +10,23 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.github.example.view.LoginController">
    <children>
-      <TextField fx:id="UserName" layoutX="667.0" layoutY="334.0" prefHeight="26.0" prefWidth="112.0" promptText="username">
+      <TextField fx:id="nombreUsuario" layoutX="667.0" layoutY="274.0" prefHeight="26.0" prefWidth="112.0" promptText="username">
          <cursor>
             <Cursor fx:constant="TEXT" />
          </cursor></TextField>
-      <PasswordField fx:id="Password" layoutX="667.0" layoutY="393.0" prefHeight="26.0" prefWidth="112.0" promptText="password">
+      <PasswordField fx:id="contraseña" layoutX="667.0" layoutY="337.0" prefHeight="26.0" prefWidth="112.0" promptText="password">
          <cursor>
             <Cursor fx:constant="TEXT" />
          </cursor></PasswordField>
-      <Button fx:id="buttonLogin" layoutX="667.0" layoutY="449.0" mnemonicParsing="false" onAction="#takeValuesLogin" prefHeight="17.0" prefWidth="112.0" style="-fx-background-color: grey;" text="Iniciar Sesion" textFill="WHITE">
+      <Button fx:id="buttonIniciarSesion" layoutX="667.0" layoutY="403.0" mnemonicParsing="false" onAction="#takeValuesLogin" prefHeight="26.0" prefWidth="112.0" style="-fx-background-color: grey;" text="Login" textFill="WHITE">
          <cursor>
             <Cursor fx:constant="HAND" />
          </cursor></Button>
-      <Button fx:id="buttonRegister" layoutX="667.0" layoutY="508.0" mnemonicParsing="false" onAction="#goToRegisterPage" prefHeight="25.0" prefWidth="112.0" style="-fx-background-color: black;" text="Registrarse" textFill="WHITE">
+      <Button fx:id="buttonRegister" layoutX="667.0" layoutY="457.0" mnemonicParsing="false" onAction="#goToRegisterPage" prefHeight="26.0" prefWidth="112.0" style="-fx-background-color: black;" text="Register" textFill="WHITE">
          <cursor>
             <Cursor fx:constant="HAND" />
          </cursor></Button>
-      <Text layoutX="580.0" layoutY="181.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ProjectChat" wrappingWidth="294.199981689453">
+      <Text layoutX="576.0" layoutY="211.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ProjectChat" wrappingWidth="294.199981689453">
          <font>
             <Font name="Consolas" size="46.0" />
          </font>
