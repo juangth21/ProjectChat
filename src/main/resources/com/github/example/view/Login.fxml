@@ -10,15 +10,15 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.github.example.view.LoginController">
    <children>
-      <TextField fx:id="nombreUsuario" layoutX="667.0" layoutY="334.0" prefHeight="26.0" prefWidth="112.0" promptText="username">
+      <TextField fx:id="UserName" layoutX="667.0" layoutY="334.0" prefHeight="26.0" prefWidth="112.0" promptText="username">
          <cursor>
             <Cursor fx:constant="TEXT" />
          </cursor></TextField>
-      <PasswordField fx:id="contraseña" layoutX="667.0" layoutY="393.0" prefHeight="26.0" prefWidth="112.0" promptText="password">
+      <PasswordField fx:id="Password" layoutX="667.0" layoutY="393.0" prefHeight="26.0" prefWidth="112.0" promptText="password">
          <cursor>
             <Cursor fx:constant="TEXT" />
          </cursor></PasswordField>
-      <Button fx:id="buttonIniciarSesion" layoutX="667.0" layoutY="449.0" mnemonicParsing="false" onAction="#takeValuesLogin" prefHeight="17.0" prefWidth="112.0" style="-fx-background-color: grey;" text="Iniciar Sesion" textFill="WHITE">
+      <Button fx:id="buttonLogin" layoutX="667.0" layoutY="449.0" mnemonicParsing="false" onAction="#takeValuesLogin" prefHeight="17.0" prefWidth="112.0" style="-fx-background-color: grey;" text="Iniciar Sesion" textFill="WHITE">
          <cursor>
             <Cursor fx:constant="HAND" />
          </cursor></Button>

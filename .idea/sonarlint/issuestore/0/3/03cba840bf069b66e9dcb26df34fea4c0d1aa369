@@ -1,11 +1,11 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ú»¾J$c4809dfe-4504-4b75-9b1c-ad28e5299a9d
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ú»¾J$2dd00438-5909-486f-9513-579993133025
 h
-java:S2440"'Remove this instantiation of "XMLUser".(™±›ÝøÿÿÿÿJ$3ed9d3aa-e1ce-458e-96ef-366070a3ead1
+java:S2440"'Remove this instantiation of "XMLUser".(™±›ÝøÿÿÿÿJ$2e4c1990-729a-444c-9a16-5044e1d2424b
 v
-java:S2209%"5Change this instance-reference to a static reference.(ðªÊ€ÿÿÿÿÿJ$2d4d4115-6acb-4ebe-92cd-ac4b5d140ab8
+java:S2209%"5Change this instance-reference to a static reference.(ðªÊ€ÿÿÿÿÿJ$7961d3da-4e5a-40a2-bd88-79afeaf1b360
 q
-java:S2209&"5Change this instance-reference to a static reference.(ƒÐØÇJ$bc781fe0-6a48-40b9-93c7-339e3b90de70
+java:S2209&"5Change this instance-reference to a static reference.(ƒÐØÇJ$1790fc0a-0d07-4956-b386-b8b16a32fb73
 q
-java:S2209)"5Change this instance-reference to a static reference.(Ä¬÷öJ$3fb18199-fdc1-427c-82dd-bdfced79a3c5
-f	java:S106+"+Replace this use of System.out by a logger.(Ø¼¢ƒJ$3500cd88-590e-4b39-a429-7f33cf1398bb
+java:S2209)"5Change this instance-reference to a static reference.(Ä¬÷öJ$00c6b39f-6ad1-4cf6-bf6c-bea94f7a69c4
+f	java:S106+"+Replace this use of System.out by a logger.(Ø¼¢ƒJ$9405258d-8225-4e6d-9c2a-34c2c77fdfda

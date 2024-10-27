@@ -1,17 +1,17 @@
 
 
-java:S1104"QMake scene a static final constant or non-public and provide accessors if needed.(äõJ$ea691ce7-a085-4ee6-bb11-25b42230ed0d
+java:S1104"QMake scene a static final constant or non-public and provide accessors if needed.(äõJ$f1055d06-947c-4783-af92-f73a66389ac6
 
-java:S1104"QMake stage a static final constant or non-public and provide accessors if needed.(œ‰àJ$38bf5362-5110-4b3b-b95b-62a8053fc543
+java:S1104"QMake stage a static final constant or non-public and provide accessors if needed.(œ‰àJ$66a53047-cf96-431a-aedc-4bc9c670d5fb
 ™
-java:S1104"]Make currentController a static final constant or non-public and provide accessors if needed.(½«İJ$8c01b422-5406-4cb4-a420-17978ab2b494
+java:S1104"]Make currentController a static final constant or non-public and provide accessors if needed.(½«İJ$7307f1f3-996c-4b1d-a7a8-fc7368d1717c
 g
-java:S1444"+Make this "public static scene" field final(äõJ$58908139-edff-4470-94e0-eb4d0fdeaac0
+java:S1444"+Make this "public static scene" field final(äõJ$e35caf4f-2a2a-4134-aa3a-e7a795bb67c9
 g
-java:S1444"+Make this "public static stage" field final(œ‰àJ$57478979-67c0-47d5-ae42-f875d28d8a0f
+java:S1444"+Make this "public static stage" field final(œ‰àJ$6cc14281-b0d8-4d50-b9fe-fa8648c655f0
 s
-java:S1444"7Make this "public static currentController" field final(½«İJ$6c6dbcea-4e19-4ec7-b84d-63dba6fc450c
+java:S1444"7Make this "public static currentController" field final(½«İJ$547852b5-734d-4dce-8216-372dc8190c43
 r
-java:S2696"6Make the enclosing method "static" or remove this set.(’àĞJ$6876e370-62ac-48c5-adb5-9d705bf6c7a4
+java:S2696"6Make the enclosing method "static" or remove this set.(’àĞJ$85dfbff6-2230-4ffa-b00f-ed38ae5600ab
 w
-java:S2696"6Make the enclosing method "static" or remove this set.(ßÆÎ­şÿÿÿÿJ$f37c2432-8570-4838-827b-aa09292d8a3d
+java:S2696"6Make the enclosing method "static" or remove this set.(ßÆÎ­şÿÿÿÿJ$b2e4d52d-5e03-430c-90fb-efc3698bbcea

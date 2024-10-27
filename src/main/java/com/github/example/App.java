@@ -27,6 +27,5 @@ public class App extends Application {
         currentController.onOpen( null);
         stage.setScene(scene);
         stage.show();
-
     }
 }

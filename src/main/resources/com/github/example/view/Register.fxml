@@ -10,19 +10,19 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#takeValuesRegister" prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.github.example.view.RegisterController">
    <children>
-      <TextField fx:id="nombre" layoutX="642.0" layoutY="218.0" prefHeight="38.0" prefWidth="162.0" promptText="name">
+      <TextField fx:id="Name" layoutX="642.0" layoutY="218.0" prefHeight="38.0" prefWidth="162.0" promptText="name">
          <cursor>
             <Cursor fx:constant="TEXT" />
          </cursor></TextField>
-      <TextField fx:id="nickname" layoutX="642.0" layoutY="291.0" prefHeight="38.0" prefWidth="162.0" promptText="username">
+      <TextField fx:id="Username" layoutX="642.0" layoutY="291.0" prefHeight="38.0" prefWidth="162.0" promptText="username">
          <cursor>
             <Cursor fx:constant="TEXT" />
          </cursor></TextField>
-      <TextField fx:id="email" layoutX="642.0" layoutY="362.0" prefHeight="38.0" prefWidth="162.0" promptText="email">
+      <TextField fx:id="Email" layoutX="642.0" layoutY="362.0" prefHeight="38.0" prefWidth="162.0" promptText="email">
          <cursor>
             <Cursor fx:constant="TEXT" />
          </cursor></TextField>
-      <PasswordField fx:id="contrasena" layoutX="642.0" layoutY="436.0" prefHeight="38.0" prefWidth="162.0" promptText="password">
+      <PasswordField fx:id="Password" layoutX="642.0" layoutY="436.0" prefHeight="38.0" prefWidth="162.0" promptText="password">
          <cursor>
             <Cursor fx:constant="TEXT" />
          </cursor></PasswordField>
@@ -31,7 +31,7 @@
             <Font name="Consolas" size="46.0" />
          </font>
       </Text>
-      <Button fx:id="registrar" layoutX="671.0" layoutY="503.0" mnemonicParsing="false" onMouseClicked="#takeValuesRegister" prefHeight="38.0" prefWidth="104.0" style="-fx-background-color: black;" text="Register" textFill="WHITE">
+      <Button fx:id="register" layoutX="671.0" layoutY="503.0" mnemonicParsing="false" onMouseClicked="#takeValuesRegister" prefHeight="38.0" prefWidth="104.0" style="-fx-background-color: black;" text="Register" textFill="WHITE">
          <font>
             <Font size="14.0" />
          </font>
