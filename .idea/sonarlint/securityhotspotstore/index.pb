@@ -27,3 +27,6 @@ e
 5src/main/java/com/github/juan/view/AppController.java,3\c\3cf5dccdfb53cd2cab0a1ac74ae217b665764bf1
 ^
 .src/main/java/com/github/juan/view/Scenes.java,1\d\1d7574f79f542b5156d501cec74f614a569289c0
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
