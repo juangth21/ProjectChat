@@ -1,9 +1,12 @@
 
 Ä
-java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È©Šş8Ë¬ô§«2J$8d827332-b8f5-42bc-8077-9d8c963ba753
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È©Šş8Ë¬ô§«2J$8e1355b2-0ea1-4926-bdff-92b8f3a2218e
 Ä
-java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“Â¬®8Ë¬ô§«2J$b573c033-0ef1-4daf-ac9e-cdc8b3c9fb72
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“Â¬®8Ë¬ô§«2J$46cd1792-9ca4-4b82-8bb0-fe2ebc45dbbe
 Ä
-java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±—ó‚8Ë¬ô§«2J$5f84866b-c3e2-45e6-a30d-a08adc10f0d9
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±—ó‚8Ë¬ô§«2J$4a9d5bb0-8f44-4de8-907b-2d4aaa0e4d3f
+•	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¶üŠùÿÿÿÿ8”çş¢­2J$8bd53a69-acdf-4d97-912a-0f925dfb3582
+´
+java:S11304"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.( ¶üŠùÿÿÿÿ8İÿ¢­2J$7d1c9a9e-f058-4275-b496-b83851d1fdb9
 
-java:S5998h"LRefactor this repetition that can lead to a stack overflow for large inputs.(õæˆB8Õ¬ô§«2J$21b4a180-bd92-4f33-a434-908dbbd36844
+java:S5998X"LRefactor this repetition that can lead to a stack overflow for large inputs.(õæˆB8Õ¬ô§«2J$30a6744c-b654-4ada-b10b-0a3c1c8fd493

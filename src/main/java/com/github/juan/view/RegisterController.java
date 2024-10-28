@@ -49,56 +49,41 @@ public class RegisterController extends Controller implements Initializable {
         return new User(usernames, names, passwords, emails);
     }
 
-    /**
-     * Registers a new user with the provided credentials and stores it in an XML file.
-     * Displays error alerts if the registration attempt fails due to invalid input or other issues.
-     *
-     * @throws IOException If an I/O exception occurs while registering the user.
-     */
     public void Register() throws IOException {
         try {
             User user = getValues();
 
-            // Verificar si alguno de los campos está vacío
             if (user.getUsername().isEmpty() || user.getName().isEmpty() || user.getPassword().isEmpty() || user.getEmail().isEmpty()) {
                 AppController.ShowAlertsErrorRegister();
-                return; // Agregar un return aquí para evitar que el código continúe
+                return;
             }
 
-            // Validar el formato del correo electrónico
             if (!isValidEmail(user.getEmail())) {
                 AppController.ShowAlertsInvalidEmail();
                 return;
             }
 
-            // Comprobar si el usuario ya existe
             if (UserXMLManager.exists(user.getUsername())) {
                 AppController.ShowAlertsUserAlreadyExists();
-                return; // Agregar un return aquí para evitar que el código continúe
+                return;
             }
 
 
             String hashedPassword = PasswordHasher.hashPassword(user.getPassword());
             user.setPassword(hashedPassword);
 
-            // Agregar el usuario a XML
+
             UserXMLManager.addUser(user);
-            UserSession.login(user); // Iniciar sesión con el nuevo usuario
-            changeSceneToLoginPage(); // Cambiar a la página de inicio de sesión
-            AppController.ShowAlertsSuccessfullyRegister(); // Mostrar mensaje de éxito
+            UserSession.login(user);
+            changeSceneToLoginPage();
+            AppController.ShowAlertsSuccessfullyRegister();
 
         } catch (Exception e) {
-            e.printStackTrace(); // Imprimir el stack trace para depurar errores
-            AppController.ShowAlertsErrorRegister(); // Manejo de error en la interfaz
+            e.printStackTrace();
+            AppController.ShowAlertsErrorRegister();
         }
     }
 
-    /**
-     * Checks if the provided email address is in a valid format.
-     *
-     * @param email The email address to validate.
-     * @return True if the email address is valid, false otherwise.
-     */
     private boolean isValidEmail(String email) {
         String emailRegex = "^[a-zA-Z0-9_+&*-]+(?:\\.[a-zA-Z0-9_+&*-]+)*@(?:[a-zA-Z0-9-]+\\.)+[a-zA-Z]{2,7}$";
         return email.matches(emailRegex);

@@ -30,3 +30,13 @@ e
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+`
+0src/main/java/com/github/juan/Test/TestUser.java,0\6\0684159905436c2cc69895f068f9952db1ee0175
+c
+3src/main/java/com/github/juan/Utils/XMLManager.java,4\2\428984f5b93ba2c3dc9dc8283151483fc95e8551
+g
+7src/main/java/com/github/juan/view/LoginController.java,c\7\c70c9ae166eff4d22ca90be94122d3e5ac96f186
+j
+:src/main/java/com/github/juan/view/MainPageController.java,2\7\27d4efd51234e2801abc32ed2eed07dd5c4c49c5
+d
+4src/main/java/com/github/juan/Utils/UserSession.java,4\1\419802ce431cf834b9d8696808c5e38f3b241c34

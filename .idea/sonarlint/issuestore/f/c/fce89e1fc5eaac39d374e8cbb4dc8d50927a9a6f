@@ -1,19 +1,19 @@
 
+
+java:S1104"QMake scene a static final constant or non-public and provide accessors if needed.(äõJ$ad01d635-db98-4b56-8858-b336a122afa7
+
+java:S1104"QMake stage a static final constant or non-public and provide accessors if needed.(œ‰àJ$1337cd26-f25d-433f-99a8-495a41a85e54
+™
+java:S1104"]Make currentController a static final constant or non-public and provide accessors if needed.(½«İJ$5a1612f4-415d-45b6-8fb9-eb01fd87fab7
 g
-java:S1104"QMake scene a static final constant or non-public and provide accessors if needed.(äõ
+java:S1444"+Make this "public static scene" field final(äõJ$63072a4a-5369-4f2e-a199-2413cd239f64
 g
-java:S1104"QMake stage a static final constant or non-public and provide accessors if needed.(œ‰à
+java:S1444"+Make this "public static stage" field final(œ‰àJ$1453270f-4d2a-4ec4-b479-d1fa27e7772b
 s
-java:S1104"]Make currentController a static final constant or non-public and provide accessors if needed.(½«İ
-A
-java:S1444"+Make this "public static scene" field final(äõ
-A
-java:S1444"+Make this "public static stage" field final(œ‰à
-M
-java:S1444"7Make this "public static currentController" field final(½«İ
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅêÈæ8êöÓ¡­2
-X
-java:S2696"6Make the enclosing method "static" or remove this set.(İ°½şÿÿÿÿ8òöÓ¡­2
-Q
-java:S2696"6Make the enclosing method "static" or remove this set.(ßÆÎ­şÿÿÿÿ
+java:S1444"7Make this "public static currentController" field final(½«İJ$9a0069d2-77bd-454b-8e2d-d997eab895a4
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅêÈæ8êöÓ¡­2J$b1a2c704-fc5f-47c4-bfbc-832cc0fad190
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(İ°½şÿÿÿÿ8òöÓ¡­2J$ead1b4c4-23fe-4ce5-9bdb-6af6e48ec058
+w
+java:S2696"6Make the enclosing method "static" or remove this set.(ßÆÎ­şÿÿÿÿJ$a7edb273-f6ca-44c4-b229-5fb2dc5ab655

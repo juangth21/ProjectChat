@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶‚þ¾
+c
+java:S1192"HDefine a constant instead of duplicating this literal "alfonso" 3 times.(ÉÜì‰ûÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(óºç˜
+E	java:S106%"+Replace this use of System.out by a logger.(ÝÈ­ðþÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(®èÏð
+@	java:S106."+Replace this use of System.out by a logger.(èôý…
+@	java:S1063"+Replace this use of System.out by a logger.(ÆÏˆÞ
+@	java:S1065"+Replace this use of System.out by a logger.(ÿá¨é
