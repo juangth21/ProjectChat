@@ -5,12 +5,8 @@ Y
 )src/main/java/com/github/example/App.java,9\7\9750a77dad96cfeea3ccba8d29c91e796493bf28
 `
 0src/main/java/com/github/example/Test/Test1.java,0\3\03cba840bf069b66e9dcb26df34fea4c0d1aa369
-`
-0src/main/java/com/github/example/Test/Test2.java,2\4\2453cf02c44292f735eef5d7a3837f4a87e81caf
 j
 :src/main/java/com/github/example/model/Entity/Message.java,c\8\c852728dd1e5899fd1b1ca0982497ede31b85dca
-i
-9src/main/java/com/github/example/model/Entity/Sesion.java,6\d\6df2e0baf73b5dda40779844dac841850f0608fc
 g
 7src/main/java/com/github/example/model/Entity/User.java,8\8\884dc33c32cf8b5ad317adf89efbaa7e1deaafd5
 n
@@ -23,14 +19,8 @@ g
 7src/main/java/com/github/example/model/XML/XMLUser.java,e\0\e0a0622f9e62bae3d718912c553c9504ac1f3d7e
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-l
-<src/main/resources/com/github/example/view/InicioSesion.fxml,e\b\ebe23a0ea910aee5ec8e4c79a31618b13e939257
-h
-8src/main/resources/com/github/example/view/registro.fxml,7\7\776675031008df83a1bc90e55ec33d85c19b8c6b
 <
 messages.txt,0\8\0890362b69c2cd5ccaebb0f9ebb58d8a78e1f652
-<
-usuarios.xml,0\8\08c5cf4e38c305d2ff3ac73ed9a1925ef2661068
 <
 messages.xml,f\a\fa033081c8e99c527b1e25383c453356fdc52d54
 j
@@ -53,7 +43,5 @@ l
 <src/main/java/com/github/example/model/Utils/XmlManager.java,0\0\003ba97959e12645e6adfa52234c1282fc43ffdb
 o
 ?src/main/java/com/github/example/model/Singleton/LoginUser.java,8\0\802140514914634420046c8d706bc9d145fd11ef
-d
-4src/main/java/com/github/example/model/XML/Test.java,d\6\d6cdf51847bf7cc80bf5d956f61b892e4f409288
 _
 /src/main/java/com/github/example/Test/Test.java,5\7\570605a1778a86d5a7685e2b72dd2fa90708a737

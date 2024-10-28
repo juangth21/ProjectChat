@@ -1,17 +1,0 @@
-
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ú»¾J$b05bd702-454b-4109-b2fc-4a1cd955b2bf
-z
-java:S1854"9Remove this useless assignment to local variable "user2".(ÛæÛÖøÿÿÿÿJ$8b40c336-82d2-40ba-8aa0-02a5bee691dd
-u
-java:S1854"9Remove this useless assignment to local variable "user1".(½¿å°J$30c7e4ce-5595-4f97-beee-733d3ab8e37b
-k
-java:S2440"*Remove this instantiation of "XMLMessage".(í‚ÐºÿÿÿÿÿJ$b5242254-3bc8-4dea-907f-72c2a5f8cc73
-f
-java:S1481"*Remove this unused "user1" local variable.(½¿å°J$8b4112f8-550c-45e2-84a4-b716b75ff33b
-k
-java:S1481"*Remove this unused "user2" local variable.(ÛæÛÖøÿÿÿÿJ$7807f6a9-0f5d-4fee-aa38-a6c620f3935c
-v
-java:S2209"5Change this instance-reference to a static reference.(…æã¢ùÿÿÿÿJ$f8912d1a-9fb6-469c-932f-36194e30bcb0
-q
-java:S2209"5Change this instance-reference to a static reference.(£åðÎJ$b6cd5549-a113-43d6-a143-965e29b0b181
-k	java:S106"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿJ$dd86d020-7eef-4741-89f6-5915daf423b6
