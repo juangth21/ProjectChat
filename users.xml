@@ -1,25 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <users>
     <user>
-        <name>alfonso</name>
-        <email>alfonso@gmail.com</email>
-        <nickname>alfonso</nickname>
-        <password>6ae9d3ee6749d8ad13ebb56bdeceb5531a4f23273f00350899d93deaf7a4c27c</password>
         <contacts>
-            <email>juan@gmail.com</email>
-            <name>juan</name>
-            <nickname>juan</nickname>
+            <email>cc@cc.com</email>
+            <name>cc</name>
+            <username>cc</username>
         </contacts>
+        <contacts>
+            <email>aa@aa.com</email>
+            <name>aa</name>
+            <username>aa</username>
+        </contacts>
+        <email>bb@bb.com</email>
+        <name>bb</name>
+        <password>bf0e4daad414b39ad98ace895309d69fae8292f9852538f8b37486e508e7609b</password>
+        <username>bb</username>
     </user>
     <user>
-        <name>juan</name>
-        <email>juan@gmail.com</email>
-        <nickname>juan</nickname>
-        <password>6ae9d3ee6749d8ad13ebb56bdeceb5531a4f23273f00350899d93deaf7a4c27c</password>
+        <contacts>
+            <email>bb@bb.com</email>
+            <name>bb</name>
+            <username>bb</username>
+        </contacts>
+        <email>cc@cc.com</email>
+        <name>cc</name>
+        <password>557cc4b7c65a3d5cea6ee0ba1ff2dfc7011adb340464edb16ea2a2c41b3ae4fa</password>
+        <username>cc</username>
+    </user>
+    <user>
+        <contacts>
+            <email>bb@bb.com</email>
+            <name>bb</name>
+            <username>bb</username>
+        </contacts>
+        <email>aa@aa.com</email>
+        <name>aa</name>
+        <password>8ca4869765a3cb326fc1f0caa5ef4b6c6597291c48bea228dd12ba4bc315ad07</password>
+        <username>aa</username>
+    </user>
+    <user>
         <contacts>
             <email>alfonso@gmail.com</email>
             <name>alfonso</name>
-            <nickname>alfonso</nickname>
+            <username>alfonso</username>
         </contacts>
+        <contacts>
+            <email>pedro@gmail.com</email>
+            <name>pedro</name>
+            <username>pedro</username>
+        </contacts>
+        <email>juan@gmail.com</email>
+        <name>juan</name>
+        <password>f852140c3785aeed7576ea8e2f4e9254aeb3c9a5ea6c48174af580ad67ff78e5</password>
+        <username>juan</username>
+    </user>
+    <user>
+        <contacts>
+            <email>juan@gmail.com</email>
+            <name>juan</name>
+            <username>juan</username>
+        </contacts>
+        <email>alfonso@gmail.com</email>
+        <name>alfonso</name>
+        <password>f852140c3785aeed7576ea8e2f4e9254aeb3c9a5ea6c48174af580ad67ff78e5</password>
+        <username>alfonso</username>
+    </user>
+    <user>
+        <contacts>
+            <email>juan@gmail.com</email>
+            <name>juan</name>
+            <username>juan</username>
+        </contacts>
+        <email>pedro@gmail.com</email>
+        <name>pedro</name>
+        <password>e8cbab0f5b76ce4b3486aec53dc0d2a154fc36ee7e3be5e6de1c48c442eac619</password>
+        <username>pedro</username>
     </user>
 </users>

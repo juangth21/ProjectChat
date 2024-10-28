@@ -1,0 +1,49 @@
+
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øî²ı
+\
+java:S1192N"FDefine a constant instead of duplicating this literal "Exito" 6 times.(å••®
+]
+java:S1192X"GDefine a constant instead of duplicating this literal "Error" 21 times.(µûø–
+œ
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÛŒ¦…ıÿÿÿÿ
+ˆ
+java:S4144R"rUpdate this method so that its implementation is not identical to "ShowAlertsSuccessfullyGeneratedtxt" on line 77.(ï ô
+
+java:S4144•"rUpdate this method so that its implementation is not identical to "ShowAlertsSuccessfullyGeneratedtxt" on line 77.(”èøøÿÿÿÿ
+
+java:S4144f"dUpdate this method so that its implementation is not identical to "ShowAlertsErrorLogin" on line 87.(‘ßÇÿÿÿÿÿ
+z
+java:S4144k"dUpdate this method so that its implementation is not identical to "ShowAlertsErrorLogin" on line 87.(«ÿğá
+z
+java:S4144z"dUpdate this method so that its implementation is not identical to "ShowAlertsErrorLogin" on line 87.(åûÉó
+€
+java:S4144€"dUpdate this method so that its implementation is not identical to "ShowAlertsErrorLogin" on line 87.(íÜÿ®ùÿÿÿÿ
+{
+java:S4144…"dUpdate this method so that its implementation is not identical to "ShowAlertsErrorLogin" on line 87.(ğà¡
+€
+java:S4144Š"dUpdate this method so that its implementation is not identical to "ShowAlertsErrorLogin" on line 87.(ÇÛ¡öüÿÿÿÿ
+€
+java:S4144"dUpdate this method so that its implementation is not identical to "ShowAlertsErrorLogin" on line 87.(…’¶ şÿÿÿÿ
+‚
+java:S4144u"lUpdate this method so that its implementation is not identical to "ShowAlertsErrorContactEmpty" on line 112.(ë±¯Ã
+t
+java:S1450"_Remove the "centerController" field and declare it as a local variable in the relevant methods.(™•À%
+A
+java:S1172+"+Remove this unused method parameter "data".(©Œ™Ó
+h	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â÷¯óÿÿÿÿÿ
+c	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï ô
+h	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ½şüÿÿÿÿ
+c	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÁÏÏ
+c	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çï—¸
+h	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ßÇÿÿÿÿÿ
+c	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÿğá
+h	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÖ¥ˆÿÿÿÿÿ
+c	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë±¯Ã
+c	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åûÉó
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÜÿ®ùÿÿÿÿ
+d	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğà¡
+i	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÛ¡öüÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…’¶ şÿÿÿÿ
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”èøøÿÿÿÿ
+d	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†´ºû
+d	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡µ”Œ

@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
     <message>
-        <fecha>2024-10-27T11:13:34.8466994</fecha>
-        <text>hola</text>
-        <contactEmisor>
-            <email>alfonso@gmail.com</email>
-            <name>alfonso</name>
-            <nickname>alfonso</nickname>
-        </contactEmisor>
-        <contactReceptor>
-            <email>juan@gmail.com</email>
-            <name>juan</name>
-            <nickname>juan</nickname>
-        </contactReceptor>
+        <content>hola</content>
+        <recipient>alfonso</recipient>
+        <sender>juan</sender>
+        <timestamp>2024-10-28 16:39:40</timestamp>
     </message>
     <message>
-        <fecha>2024-10-27T11:14:01.3287144</fecha>
-        <text>buenas</text>
-        <contactEmisor>
-            <email>juan@gmail.com</email>
-            <name>juan</name>
-            <nickname>juan</nickname>
-        </contactEmisor>
-        <contactReceptor>
-            <email>alfonso@gmail.com</email>
-            <name>alfonso</name>
-            <nickname>alfonso</nickname>
-        </contactReceptor>
+        <content>que tal</content>
+        <recipient>juan</recipient>
+        <sender>alfonso</sender>
+        <timestamp>2024-10-28 16:39:57</timestamp>
+    </message>
+    <message>
+        <content>buenas</content>
+        <recipient>alfonso</recipient>
+        <sender>juan</sender>
+        <timestamp>2024-10-28 17:36:30</timestamp>
+    </message>
+    <message>
+        <content>buenas tardes</content>
+        <recipient>alfonso</recipient>
+        <sender>juan</sender>
+        <timestamp>2024-10-28 18:10:54</timestamp>
+    </message>
+    <message>
+        <content>hola juan</content>
+        <recipient>juan</recipient>
+        <sender>pedro</sender>
+        <timestamp>2024-10-28 18:41:28</timestamp>
+    </message>
+    <message>
+        <content>hola pedro</content>
+        <recipient>pedro</recipient>
+        <sender>juan</sender>
+        <timestamp>2024-10-28 18:41:48</timestamp>
     </message>
 </messages>

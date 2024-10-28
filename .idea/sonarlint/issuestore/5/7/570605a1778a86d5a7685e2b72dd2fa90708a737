@@ -1,11 +1,0 @@
-
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ú»¾J$e8adc58c-7b66-4256-97cb-94ba7562aad1
-h
-java:S2440"'Remove this instantiation of "XMLUser".(™±›ÝøÿÿÿÿJ$35562551-3200-45cf-9df8-0659aba94d41
-v
-java:S2209%"5Change this instance-reference to a static reference.(ðªÊ€ÿÿÿÿÿJ$7b21bd61-8528-4885-ad1e-feb8515393e3
-q
-java:S2209&"5Change this instance-reference to a static reference.(ƒÐØÇJ$5a20903c-b669-4caa-a5cf-809bf4a8bb8c
-q
-java:S2209)"5Change this instance-reference to a static reference.(Ä¬÷öJ$ce39a3c3-42f0-43fa-8ad9-3be95f2bca3b
-f	java:S106+"+Replace this use of System.out by a logger.(Ø¼¢ƒJ$1bca3eaa-5d7a-4119-bd2a-8438c5fcb23e

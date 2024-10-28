@@ -1,17 +1,0 @@
-
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û¯ÏæıÿÿÿÿJ$2dd369e5-e814-4124-8838-5c3538aa4961
-–
-java:S1104"[Make archivoMessages a static final constant or non-public and provide accessors if needed.(Â¼úJ$dd77cb42-e863-4999-896e-26d6dae46806
-’
-java:S1104"VMake archivoTxt a static final constant or non-public and provide accessors if needed.(„ô‘ôJ$68d100d2-ed02-43c4-9c41-e83507c81842
-p
-java:S1444"5Make this "public static archivoMessages" field final(Â¼úJ$26ec981f-b5db-471a-8bc1-4f4bdad68ef1
-l
-java:S1444"0Make this "public static archivoTxt" field final(„ô‘ôJ$008e75c1-90e5-48ff-8a3b-8527493b31a7
-	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(ÚƒÄ…ùÿÿÿÿ8†¼ì¬2J$2457b877-36e2-4ddf-bfea-f55ee16982cb
-{
-java:S1118":Add a private constructor to hide the implicit public one.(¾œ½òıÿÿÿÿJ$5b157442-f920-4f98-ac9a-fe61c15f7f84
-
-java:S37760"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÙÖ´©J$ab5b6840-49ec-4645-96c2-403056c87c1e
-k	java:S106m"+Replace this use of System.out by a logger.(ÆĞŒÚüÿÿÿÿJ$70c4a280-135d-42d3-9668-11fa90bac337
-l	java:S106›"+Replace this use of System.out by a logger.(ÓïãêøÿÿÿÿJ$b09966be-95fd-4068-9f7f-e9372c61e6d5
